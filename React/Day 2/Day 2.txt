@@ -1,0 +1,13 @@
+Extensions to install in VS Code:
+
+Babel ES6/ES7
+
+Code Runner
+
+ES7+ React/Redux/React-Native snippets
+
+JavaScript (ES6) code snippets
+
+Live Server
+
+Prettier - Code formatter
